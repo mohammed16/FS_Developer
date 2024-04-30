@@ -1,2 +1,2 @@
-# FS_Developer
+# Full Stack Developer Course
 Full Stack Developer 
